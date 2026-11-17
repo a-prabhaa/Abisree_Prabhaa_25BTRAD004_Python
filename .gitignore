@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Matplotlib cache
+.matplotlib_cache/
+
+# SQLite WAL and shared memory temp files
+*.db-shm
+*.db-wal
